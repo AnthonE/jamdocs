@@ -1,6 +1,15 @@
 {
   "sidebar": [
     {
+      "section": "New Bar",
+      "topics": [
+        {
+          "title": "Pokemon",
+          "slug": "pokemon"
+        }
+      ]
+    },
+    {
       "section": "Introduction",
       "topics": [
         {
