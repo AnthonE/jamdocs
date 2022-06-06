@@ -1,6 +1,6 @@
 ---
 title: Pokemon
-date: 
+date: 2022-06-06
 slug: pokemon
 
 ---
